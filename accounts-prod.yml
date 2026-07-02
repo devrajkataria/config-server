@@ -1,0 +1,4 @@
+build:
+  version: "1.0-prod"
+myapp:
+  message: "Welcome to Accounts PROD environment from GitHub!"
