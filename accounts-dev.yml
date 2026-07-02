@@ -1,4 +1,0 @@
-build:
-  version: "2.0-dev"
-myapp:
-  message: "Welcome to Accounts DEV environment from GitHub!"
